@@ -1,0 +1,4 @@
+baseURL = 'https://mahsaashouri.github.io/'
+languageCode = 'en-us'
+title = 'Mahsa Ashouri blog (test with Hugo)'
+theme='LoveIt'
